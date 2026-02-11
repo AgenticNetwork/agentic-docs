@@ -52,7 +52,7 @@ Agentic Pay enables:
 - Cross-chain capital routing
 - Programmatic disbursement logic
 
-Capital moves as fluidly as information through Pay.
+Capital moves as fluidly as information.
 
 ---
 
@@ -68,7 +68,7 @@ Agentic Grid enables:
 - Autonomous fulfillment flows
 - On-chain action coordination
 
-Grid ultimately ensures intelligence becomes action.
+Grid ensures intelligence becomes action.
 
 ---
 
@@ -97,5 +97,5 @@ Interaction.
 Value.  
 Execution.  
 
-This provides the essential backbone of Web4 infrastructure.
+This is Web4 infrastructure.
 

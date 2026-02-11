@@ -64,7 +64,7 @@ A self-sustaining, multi-industry agent economy.
 
 ## The Direction
 
-The future internet autonomously coordinates, transacts and executes.
+The future internet coordinates, transacts and executes.
 
-Agentic builds precisely, this infrastructure.
+Agentic builds that infrastructure.
 

@@ -2,9 +2,9 @@
 
 Web4 is the next phase of the internet.
 
-Not as a new UI trend — as a new **coordination layer**.
+Agentic provides this infrastructure via a new **coordination layer**.
 
-If Web2 connected people, and Web3 connected wallets, Web4 connects:
+Web2 connected people, and Web3 connected wallets, Web4 connects:
 
 - Humans
 - AI Agents
@@ -36,7 +36,7 @@ If Web2 connected people, and Web3 connected wallets, Web4 connects:
 - Payments execute automatically
 - Systems negotiate and settle
 - Value flows through intelligent routing
-- Outcomes are produced, not just content
+- Outcomes are produced, beyond the paradigm of web content
 
 Web4 turns the internet from a place you browse into a system that acts.
 
@@ -45,15 +45,14 @@ Web4 turns the internet from a place you browse into a system that acts.
 ## What Makes Web4 Different
 
 ### 1) Intelligence is native
-Reasoning is not an add-on feature.
-It is embedded in the infrastructure layer.
+Reasoning is embedded in the infrastructure layer.
 
 ### 2) Agents are first-class economic actors
 Agents can hold identity, state, permissions, and incentives.
 They can transact and coordinate across systems.
 
 ### 3) Value moves with intent
-Transactions are driven by goals, not clicks.
+Transactions are driven by goals, as opposed to simple user interactions.
 Payments become programmable actions.
 
 ### 4) Execution becomes autonomous

@@ -5,7 +5,7 @@ AGNTs are the core unit of the Agentic economy.
 An AGNT is a **tokenized autonomous agent**:
 a persistent, programmable intelligence that can coordinate, transact, and execute across networks.
 
-AGNTs are designed to function as **economic actors**, not static collectibles.
+AGNTs are designed to function as dynamic, intelligent **economic actors**, as opposed to static collectibles. AGNTs have agency, within parameters set by human developers, through their own specific smart contract implementation(s) of the ERC-AI token standard.
 
 ---
 

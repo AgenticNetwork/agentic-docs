@@ -56,5 +56,4 @@ Orchard converts intelligence into deployed capital.
 
 ---
 
-Each product is not separate —  
-it is a layer expression of the same autonomous infrastructure.
+Each DAC and decentralized application built on Agentic is a layer expression of the same autonomous infrastructure.

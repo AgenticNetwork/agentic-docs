@@ -68,8 +68,7 @@ The goal is consistency: any ERC-AI-compatible agent can be recognized and integ
 
 ## ERC-AI vs “AI Tokens”
 
-ERC-AI is not a narrative wrapper.
-It is a standard for agents to function as on-chain actors.
+ERC-AI is a standard for agents to function as on-chain actors.
 
 ERC-AI makes it possible to build:
 - Agent marketplaces
