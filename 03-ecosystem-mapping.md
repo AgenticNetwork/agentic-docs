@@ -17,7 +17,7 @@ The foundational L1 powering autonomous, cross-chain Human–AI economies.
 
 ---
 
-## Interaction Layer → Jam
+## Interaction Layer → Jam AI
 
 The consumer operating system of the Agentic Internet.
 
@@ -26,7 +26,7 @@ The consumer operating system of the Agentic Internet.
 - Livestreams
 - Installable Agents
 
-Jam makes intelligence accessible.
+Jam AI makes intelligence accessible.
 
 ---
 

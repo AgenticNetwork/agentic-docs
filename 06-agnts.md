@@ -61,7 +61,7 @@ AGNTs make intelligence economically legible.
    - An AGNT is created with a defined role, capability set, and identity.
 
 2. **Deployment**
-   - The AGNT becomes available across Interaction surfaces (e.g. Jam).
+   - The AGNT becomes available across Interaction surfaces (e.g. Jam AI).
 
 3. **Operation**
    - The AGNT performs actions, coordinates, and generates outcomes.

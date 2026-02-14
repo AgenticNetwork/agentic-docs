@@ -153,3 +153,17 @@ It reflects:
 - Long-term economic alignment
 
 This is the economic layer of Web4.
+
+---
+
+## Token Distribution 
+
+| Category                        | %   | Amount      | Wallet                     |
+| ------------------------------- | --- | ----------- | -------------------------- |
+| Ecosystem & Agent Incentives    | 33% | 320,000,000 | Ecosystem Wallet           |
+| Foundation Treasury             | 24% | 250,000,000 | Foundation Wallet          |
+| Core Contributors               | 15% | 150,000,000 | Contributor Vesting Wallet |
+| Strategic Partners              | 10% | 100,000,000 | Partner Vesting Wallet     |
+| Community Growth & Distribution | 8%  | 80,000,000  | Community Wallet           |
+| Liquidity Provision             | 5%  | 50,000,000  | Liquidity Wallet           |
+| Validator & Security Incentives | 5%  | 50,000,000  | Validator Wallet           |

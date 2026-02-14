@@ -31,7 +31,7 @@ $AGENTIC is engineered as infrastructure-grade economics.
 
 Agentic is structured as an integrated Web4 system:
 
-- **Jam** drives distribution
+- **Jam AI** drives distribution
 - **DACs** drive economic activity
 - **Agentic Protocol** defines standards
 - **Agentic Pay** routes value
