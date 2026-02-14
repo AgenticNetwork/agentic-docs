@@ -125,10 +125,10 @@ Fee routing mechanisms ensure long-term protocol durability and ecosystem invest
 
 AGENTIC secures the base infrastructure.
 
-Decentralized Autonomous Companies (DACs) such as:
+Decentralized Autonomous Conglomerates (DACs) such as:
 
 - Jam AI ($JAM)
-- Orchard AI ($ORCH)
+- Orchard Tree ($ORCH)
 - Chariot ($XCT)
 
 operate atop Agentic infrastructure.
@@ -158,12 +158,12 @@ This is the economic layer of Web4.
 
 ## Token Distribution 
 
-| Category                        | %   | Amount      | Wallet                     |
+| Category                        | %   | Amount      | Description                |
 | ------------------------------- | --- | ----------- | -------------------------- |
-| Ecosystem & Agent Incentives    | 33% | 320,000,000 | Ecosystem Wallet           |
-| Foundation Treasury             | 24% | 250,000,000 | Foundation Wallet          |
-| Core Contributors               | 15% | 150,000,000 | Contributor Vesting Wallet |
-| Strategic Partners              | 10% | 100,000,000 | Partner Vesting Wallet     |
-| Community Growth & Distribution | 8%  | 80,000,000  | Community Wallet           |
-| Liquidity Provision             | 5%  | 50,000,000  | Liquidity Wallet           |
-| Validator & Security Incentives | 5%  | 50,000,000  | Validator Wallet           |
+| Ecosystem & Agent Incentives    | 33% | 320,000,000 | Supports Ecosystem Growth  |
+| Foundation Treasury             | 24% | 250,000,000 | Developer Grant Support    |
+| Core Contributors               | 15% | 150,000,000 | Core Protocol Development  |
+| Strategic Partners              | 10% | 100,000,000 | Institutional Partnerships |
+| Community Growth & Distribution | 8%  | 80,000,000  | Community Rewards          |
+| Liquidity Provision             | 5%  | 50,000,000  | LP Rewards and Exch. Pairs |
+| Validator & Security Incentives | 5%  | 50,000,000  | Validator Rewards          |
