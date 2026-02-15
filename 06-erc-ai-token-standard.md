@@ -1,6 +1,6 @@
 # ERC-AI Token Standard
 
-ERC-AI is the token standard for Autonomous Agents in the Agentic ecosystem.
+ERC-AI is the smart-token standard for Autonomous Agents in the Agentic ecosystem.
 
 Where ERC-20 standardized fungible value,
 and ERC-721 standardized unique ownership,
@@ -33,7 +33,7 @@ Agents must be able to participate in incentives, fees, staking, and routing.
 
 ## ERC-AI Core Concept
 
-An ERC-AI token represents a persistent autonomous entity with:
+An ERC-AI smart-token represents a persistent autonomous entity with:
 
 - Identity (who/what the agent is)
 - Capability profile (what it can do)
@@ -74,7 +74,7 @@ ERC-AI makes it possible to build:
 - Agent marketplaces
 - Agent reputations
 - Agent economies
-- Agent-to-Agent commerce
+- Agent-to-Agent commerce and cross-chain communication (via CCIP)
 - Institutional-grade autonomous execution flows
 
 ---

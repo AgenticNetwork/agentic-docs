@@ -12,11 +12,11 @@ The cognitive core of Agentic.
 
 This layer enables:
 
-- Autonomous reasoning
 - Cross-chain cognition
-- Agent orchestration
+- Multi-Agent orchestration
 - Decision engines
 - Human–AI economic coordination
+- Agentic Reasoning
 
 It functions as the brain of the system.
 
@@ -30,45 +30,43 @@ The communication surface between humans, agents, and systems.
 
 This layer enables:
 
+- Agent-to-Agent (A2A) communication middleware
 - Conversational interfaces
-- AI-native UX
-- Agent-to-Agent (A2A) communication
+- Human-AI-native UX
 - Messaging & livestream surfaces
-- Agentic Comms
+- Agentic Communication
 
 It is the visible layer of Agentic — where intelligence becomes accessible.
 
 ---
 
-## 3. Execution Layer (Left Triangle)
+## 3. Value Layer (Left Triangle)
 
-The movement of capital across humans, agents, and networks.
+The sourcing of value across humans, agents, and networks.
 
 This layer enables:
 
-- Autonomous payments
-- Settlement rails
-- Treasury routing
-- Agent-to-Agent value exchange
-- Agentic Pay
+- Agent-to-Agent (A2A) value sourcing
+- Procurement automation
+- Tokenized liquidity
+- Cross-chain capital routing
+- Agentic Liquidity
 
 It is the monetary bloodstream of the ecosystem.
 
 ---
 
-## 4. Value Layer (Right Triangle)
+## 4. Execution Layer (Right Triangle)
 
 The autonomous action layer.
 
 This layer enables:
 
-- RWA sourcing
-- Tokenized liquidity
-- Procurement automation
+- Agent-to-Agent (A2A) payments
+- Settlement rails
 - On-chain execution
-- Cross-chain liquidity routing
-- Agentic Liquidity
-
+- Cross-chain payment routing
+- Agentic Payments
 
 It is the system’s arm — converting intelligence into real-world outcomes.
 

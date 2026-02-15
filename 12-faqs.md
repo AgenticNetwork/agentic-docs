@@ -10,19 +10,19 @@ It is the foundation of the Autonomous Internet.
 
 ---
 
-## What is Jam ($JAM)?
+## What is Jam AI ($JAM)?
 
 Jam is the Interaction-layer DAC of Agentic.
 
-It expresses the consumer-facing AI-native super-app layer of the ecosystem.
+It expresses the consumer-facing Human-AI-native scalable super-app infrastructure layer of the ecosystem.
 
 ---
 
-## What is Orchard ($ORCH)?
+## What is Orchard AI ($ORCH)?
 
 Orchard is the Execution-layer DAC.
 
-It represents tokenized coordination of real-world-aligned economic flows through Web4 primitives.
+It represents tokenized coordination of real-world-aligned, regulatory compliant economic flows through Web4 primitives.
 
 ---
 

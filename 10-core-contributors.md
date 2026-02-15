@@ -1,6 +1,6 @@
-# Core Team
+# Core Contributors
 
-Agentic is built by operators focused on long-term infrastructure.
+Agentic is built by a core group of global contributors - focused on long-term, intelligent, self-evolving and highly scalable Web4 infrastructure.
 
 ---
 
@@ -15,7 +15,7 @@ Expertise includes:
 
 - Full-stack engineering
 - High-scale platform architecture
-- AI-native UX design
+- Human-AI-native UX design
 - Real-time systems and 3D environments
 - Token economy systems design
 
@@ -30,7 +30,7 @@ Focus:
 ## Creative Leadership
 
 **Ila Orbis**  
-Chief Creative Officer (CCO)
+Creative Director
 
 Background in:
 
