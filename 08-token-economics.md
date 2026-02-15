@@ -128,7 +128,7 @@ AGENTIC secures the base infrastructure.
 Decentralized Autonomous Conglomerates (DACs) such as:
 
 - Jam AI ($JAM)
-- Orchard Tree ($ORCH)
+- Orchard AI ($ORCH)
 - Chariot ($XCT)
 
 operate atop Agentic infrastructure.
