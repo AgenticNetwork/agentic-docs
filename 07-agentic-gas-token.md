@@ -1,8 +1,8 @@
-# Agentic Network Token ($AGENTIC)
+# Agentic Network Token ($AGX)
 
-Agentic is secured and coordinated by a native network token: **$AGENTIC**.
+Agentic is secured and coordinated by a native network token: **$AGX**.
 
-$AGENTIC powers execution, aligns long-term incentives, and sustains protocol security through staking.
+$AGX powers execution, aligns long-term incentives, and sustains protocol security through staking.
 
 ---
 
@@ -18,7 +18,7 @@ $AGENTIC powers execution, aligns long-term incentives, and sustains protocol se
 
 ## Design Principles
 
-$AGENTIC is engineered as infrastructure-grade economics.
+$AGX is engineered as infrastructure-grade economics.
 
 - **Utility-first architecture**
 - **Sustainable issuance and incentive flows**
@@ -31,13 +31,13 @@ $AGENTIC is engineered as infrastructure-grade economics.
 
 Agentic is structured as an integrated Web4 system:
 
-- **Jam AI** drives distribution
 - **DACs** drive economic activity
+- **Agentic OS** drives distribution
 - **Agentic Protocol** defines standards
 - **Agentic Pay** routes value
 - **Agentic Grid** executes
 
-**$AGENTIC** secures and sustains the network that makes this coordination possible.
+**$AGX** secures and sustains the network that makes this coordination possible.
 
 ---
 

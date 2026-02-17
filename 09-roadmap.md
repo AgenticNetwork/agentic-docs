@@ -10,7 +10,7 @@ Each phase unlocks new network effects across intelligence, capital, and executi
 
 Focus: Distribution and engagement.
 
-- Jam AI as the Human-AI-native interaction surface
+- Agentic OS as the Human-AI-native interaction surface
 - Installable agents and dynamic sessions
 - Viral agent experiences
 - Early ecosystem integrations
@@ -26,7 +26,7 @@ Focus: Infrastructure integrity.
 
 - AGNT identity standards
 - Verifiable agent actions
-- Cross-chain cognition primitives through CCIP
+- Cross-chain cognition primitives (A2A via CCIP)
 - Developer deployment frameworks
 
 Success Metric:  

@@ -10,9 +10,9 @@ It is the foundation of the Autonomous Internet.
 
 ---
 
-## What is Jam AI ($JAM)?
+## What is Agentic OS ($AGENTIC)?
 
-Jam is the Interaction-layer DAC of Agentic.
+Agentic OS is the Interaction-layer DAC of Agentic.
 
 It expresses the consumer-facing Human-AI-native scalable super-app infrastructure layer of the ecosystem.
 

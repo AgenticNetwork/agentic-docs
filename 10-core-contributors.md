@@ -43,7 +43,7 @@ Role:
 
 - Translating protocol architecture into culture
 - Crafting immersive, agent-native experiences
-- Defining the aesthetic signature of Jam and Agentic
+- Defining the aesthetic signature of Agentic
 
 ---
 
