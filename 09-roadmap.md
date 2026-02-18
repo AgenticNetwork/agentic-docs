@@ -10,7 +10,7 @@ Each phase unlocks new network effects across intelligence, capital, and executi
 
 Focus: Distribution and engagement.
 
-- Agentic OS as the Human-AI-native interaction surface
+- Jam AI as the Human-AI-native interaction surface
 - Installable agents and dynamic sessions
 - Viral agent experiences
 - Early ecosystem integrations

@@ -33,7 +33,7 @@ Agentic DACs represent Web4-native economic entities.
 
 Examples include:
 
-- **Agentic OS ($AGENTIC)** — Interaction-layer DAC
+- **Jam AI ($JAM)** — Interaction-layer DAC
 - **Orchard AI ($ORCH)** — Execution-layer DAC
 - **Chariot ($XCT)** — Value-layer DAC
 

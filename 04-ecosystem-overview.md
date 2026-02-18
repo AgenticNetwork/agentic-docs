@@ -17,7 +17,7 @@ The foundational operating system powering autonomous, cross-chain Human–AI ec
 
 ---
 
-## Interaction Layer → Agentic OS
+## Interaction Layer → Jam AI
 
 The consumer-centric social operating system of the Agentic Web4 era - built for mainstream, highly viral agentic consumer adoption flows at mass scale.
 
@@ -26,7 +26,7 @@ The consumer-centric social operating system of the Agentic Web4 era - built for
 - Livestreams
 - Installable Agents
 
-Agentic OS makes intelligence and agentic expression - accessible, globally.
+Jam AI makes intelligence and agentic expression - accessible, globally.
 
 ---
 
