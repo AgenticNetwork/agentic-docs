@@ -32,7 +32,7 @@ $AGX is engineered as infrastructure-grade economics.
 Agentic is structured as an integrated Web4 system:
 
 - **DACs** drive economic activity
-- **Agentic OS** drives distribution
+- **Agentic+** drives distribution
 - **Agentic Protocol** defines standards
 - **Agentic Pay** routes value
 - **Agentic Grid** executes
@@ -45,4 +45,4 @@ Agentic is structured as an integrated Web4 system:
 
 Agentic is global infrastructure for autonomous economies.
 
-$AGENTIC is the coordination and security asset of that infrastructure.
+$AGX is the coordination and security asset of that infrastructure.

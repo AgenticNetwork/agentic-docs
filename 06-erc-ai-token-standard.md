@@ -57,7 +57,7 @@ ERC-AI implementations typically include:
   - Versioned modules, capability extensions, governance-driven updates
 
 - **Interaction Hooks**
-  - Standard events and callable methods for surfaces (e.g. Agentic OS) and protocol components
+  - Standard events and callable methods for surfaces (e.g. Agentic+) and protocol components
 
 - **Economic Hooks**
   - Fee routing, staking participation, treasury controls, settlement endpoints

@@ -6,9 +6,9 @@ This alignment ensures architectural clarity and long-term institutional grade s
 
 ---
 
-## Intelligence Layer → Agentic OS
+## Intelligence Layer → Agentic+
 
-The foundational operating system powering autonomous, cross-chain Human–AI economies. Agentic OS serves as the nervous system of the Agentic Internet.
+The foundational operating system powering autonomous, cross-chain Human–AI economies. Agentic+ serves as the nervous system of the Agentic Internet.
 
 - AGNT orchestration interface
 - Cross-chain AGNT communication via CCIP

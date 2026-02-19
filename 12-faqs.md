@@ -10,6 +10,14 @@ It is the foundation of the Autonomous Internet.
 
 ---
 
+## What is Agentic+ ($AGENTIC)?
+
+Agentic+ is the Intelligence-layer DAC of Agentic.
+
+It is the Web4 Consumer Operating System and Distribution Layer which gives human users access to all DACs, through peripherally intelligent AI Agents, who interact (via the Interaction Layer), source value (via the Value Layer) and execute (via the Execution Layer) on their behalf.
+
+---
+
 ## What is Jam AI ($JAM)?
 
 Jam AI is the Interaction-layer DAC of Agentic.
@@ -51,7 +59,7 @@ Together they form a unified autonomous economic stack.
 
 Agentic unifies:
 
-- Intelligence coordination
+- Peripheral Intelligence coordination
 - Agent-native UX
 - Value routing
 - Cross-chain execution

@@ -1,8 +1,8 @@
 # Agentic Token Economics
 
-The Agentic Network is secured and sustained by a native gas and staking asset: **AGENTIC**.
+The Agentic Network is secured and sustained by a native gas and staking asset: **AGX**.
 
-AGENTIC is the coordination primitive of the Autonomous Internet.
+AGX is the coordination primitive of the Autonomous Internet.
 
 It powers execution, aligns incentives, secures infrastructure, and enables decentralized governance across Web4.
 
@@ -10,8 +10,8 @@ It powers execution, aligns incentives, secures infrastructure, and enables dece
 
 ## Token Overview
 
-**Token Name:** AGENTIC  
-**Ticker:** AGENTIC  
+**Token Name:** AGX  
+**Ticker:** AGX  
 **Max Supply:** 1,000,000,000  
 **Decimals:** 18  
 **Type:** Native L1 Gas & Staking Asset  
@@ -24,7 +24,7 @@ Agentic is structured as infrastructure for intelligent, autonomous coordination
 
 Its token economy reflects that role.
 
-AGENTIC functions across four primary dimensions:
+AGX functions across four primary dimensions:
 
 1. Network Security  
 2. Execution Fuel  
@@ -35,9 +35,9 @@ AGENTIC functions across four primary dimensions:
 
 ## 1. Network Security
 
-AGENTIC secures the Agentic chainlet through staking-based consensus.
+AGX secures the Agentic chainlet through staking-based consensus.
 
-Validators stake AGENTIC to:
+Validators stake AGX to:
 
 - Participate in block production
 - Secure network integrity
@@ -50,7 +50,7 @@ Staking aligns long-term participation with network stability.
 
 ## 2. Execution Fuel
 
-All on-chain computation, autonomous orchestration, and value routing within Agentic requires AGENTIC gas.
+All on-chain computation, autonomous orchestration, and value routing within Agentic requires AGX gas.
 
 This includes:
 
@@ -60,13 +60,13 @@ This includes:
 - Cross-chain coordination
 - RWA execution flows
 
-AGENTIC ensures that intelligence is backed by accountable execution.
+AGX ensures that intelligence is backed by accountable execution.
 
 ---
 
 ## 3. Validator & Participant Incentives
 
-AGENTIC emissions are structured to:
+AGX emissions are structured to:
 
 - Reward productive validators
 - Incentivize ecosystem builders
@@ -79,7 +79,7 @@ Incentives are calibrated to encourage durable infrastructure development rather
 
 ## 4. Governance Coordination
 
-As the network matures, AGENTIC holders participate in protocol evolution through structured governance mechanisms.
+As the network matures, AGX holders participate in protocol evolution through structured governance mechanisms.
 
 Governance includes:
 
@@ -103,7 +103,7 @@ Distribution supports:
 - Developer incentives
 - Long-term protocol resilience
 
-Supply is capped at 1,000,000,000 AGENTIC.
+Supply is capped at 1,000,000,000 AGX.
 
 Economic expansion is aligned with network growth and productive usage.
 
@@ -123,17 +123,18 @@ Fee routing mechanisms ensure long-term protocol durability and ecosystem invest
 
 ## Relationship to DACs
 
-AGENTIC secures the base infrastructure.
+AGX secures the base infrastructure.
 
 Decentralized Autonomous Conglomerates (DACs) such as:
 
+- Agentic+ ($AGENTIC)
 - Jam AI ($JAM)
 - Orchard AI ($ORCH)
 - Chariot ($XCT)
 
 operate atop Agentic infrastructure.
 
-AGENTIC powers the execution layer that enables these economies to function.
+AGX powers the execution layer that enables these economies to function.
 
 The base layer remains sovereign.
 
@@ -143,7 +144,7 @@ The base layer remains sovereign.
 
 Agentic is foundational infrastructure for the Autonomous Internet.
 
-AGENTIC is the coordination asset of that infrastructure.
+AGX is the coordination asset of that infrastructure.
 
 It reflects:
 
@@ -156,14 +157,14 @@ This is the economic layer of Web4.
 
 ---
 
-## Token Distribution 
+## Agentic (AGX) Token Distribution 
 
-| Category                        | %   | Amount      | Description                |
-| ------------------------------- | --- | ----------- | -------------------------- |
-| Ecosystem & Agent Incentives    | 33% | 320,000,000 | Supports Ecosystem Growth  |
-| Foundation Treasury             | 24% | 250,000,000 | Developer Grant Support    |
-| Core Contributors               | 15% | 150,000,000 | Core Protocol Development  |
-| Strategic Partners              | 10% | 100,000,000 | Institutional Partnerships |
-| Community Growth & Distribution | 8%  | 80,000,000  | Community Rewards          |
-| Liquidity Provision             | 5%  | 50,000,000  | LP Rewards and Exch. Pairs |
-| Validator & Security Incentives | 5%  | 50,000,000  | Validator Rewards          |
+| Category                        | %   | Amount (AGX) | Description                |
+| ------------------------------- | --- | ------------ | -------------------------- |
+| Ecosystem & Agent Incentives    | 33% | 320,000,000  | Supports Ecosystem Growth  |
+| Foundation Treasury             | 24% | 250,000,000  | Developer Grant Support    |
+| Core Contributors               | 15% | 150,000,000  | Core Protocol Development  |
+| Strategic Partners              | 10% | 100,000,000  | Institutional Partnerships |
+| Community Growth & Distribution | 8%  | 80,000,000   | Community Rewards          |
+| Liquidity Provision             | 5%  | 50,000,000   | LP Rewards and Exch. Pairs |
+| Validator & Security Incentives | 5%  | 50,000,000   | Validator Rewards          |
